@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aron Grabski
+- 👀 I’m interested in programming because I think it is a usefull skill to have in so many different fields
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: aron.grabski@gmail.com
